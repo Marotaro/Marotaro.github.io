@@ -1,0 +1,106 @@
+#body {
+    background-color: rgb(107, 74, 24);
+    background-image: url(https://static.planetminecraft.com/files/image/minecraft/texture-pack/2022/399/15399869-abccfdffcdeddbf_m.jpg);
+
+}
+
+#logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#titre {
+    color: white;
+    background-image: url(https://www.filterforge.com/filters/11635-v7.jpg);
+    background-size: 20%;
+    box-shadow: 1px 1px 10px #000000;
+    text-align: center;
+
+}
+
+#sommaire {
+    box-shadow: 0px 0px 14px #000000;
+    font-family: Verdana, Geneva, sans-serif;
+    color:#DDDDDD;
+    width: 255px;
+    background-color: #DDDDDD;
+    background-size: 50%;
+    background-image: url(https://i.pinimg.com/originals/e9/90/4c/e9904cdb30314092a60f1ec18711bbbf.jpg );
+}
+
+
+#titre-sommaire {
+    font-size: 25px;
+    font-family: Verdana, Geneva, sans-serif;
+    color:#DDDDDD;
+    text-align: center;
+    margin-bottom: -13px;
+}
+
+#video {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.elements {
+    text-align: center;
+    font-family: Verdana, Geneva, sans-serif;
+    color:#DDDDDD;
+}
+
+#liste_version{
+    box-shadow: 0px 0px 14px #000000;
+    background-color: #DDDDDD;
+    background-size: 155px;
+    background-image: url(https://static.planetminecraft.com/files/image/minecraft/texture-pack/2021/166/14080989-deepslate-top_l.webp);
+    padding: 10px;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 15px;
+    color: #F5F5F5;
+    margin-top:-10px;
+    width: 750px;
+}
+
+.liste_version_espace{
+    margin-top: 10px;
+}
+
+.text {
+    box-shadow: 0px 0px 14px #000000;
+    background-color: #DDDDDD;
+    background-size: 155px;
+    background-image: url(https://static.planetminecraft.com/files/image/minecraft/texture-pack/2021/166/14080989-deepslate-top_l.webp);
+    padding: 10px;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 20px;
+    color: #F5F5F5;
+    text-align: center;
+
+}
+
+#cave_and_cliff_image{
+   position: relative;
+   left: 800px; 
+   bottom: 1500px;
+}
+#update_aquatic_image{
+    position: relative; 
+   bottom: 1000px;
+}
+
+#combat_update_image{
+    position: relative;
+    left: 950px; 
+    bottom: 950px;
+}
+
+#gameplay{
+    margin-top: -850px;
+}
+
+#gameplay_image{
+    position: relative;
+    left: 200px;
+}
